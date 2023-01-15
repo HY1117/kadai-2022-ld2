@@ -14,8 +14,3 @@ console.log("犬または猫を飼っている", dog || cat)
 console.log("犬と猫の両方を飼っている", dog && cat)
 console.log("犬も猫も飼っていない", !dog && !cat)
 console.log("犬も猫も飼っていない２", !(dog || cat))
-
-
-
-
-
