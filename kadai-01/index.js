@@ -1,3 +1,2 @@
 console.log("こんにちは")
-console.log("こんばんは！")
-
+console.log("こんばんは!")
