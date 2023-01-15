@@ -15,4 +15,3 @@ const dictionary = {
 for (const key of Object.keys(profile)){
     console.log("私の" + dictionary[key] + "は" + profile[key] + "です")
 }
-//console.log("私の名前は" + profile.name + "です")
